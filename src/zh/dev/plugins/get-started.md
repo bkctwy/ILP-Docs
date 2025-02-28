@@ -34,7 +34,7 @@ git clone https://github.com/bkctwy/plugin-template
 
 ### 修改插件配置信息
 修改`config.h.in`文件，修改插件名称、版本等信息。
-```c++
+```c++ title="config.h.in"
 #ifndef CONFIG_H
 #define CONFIG_H
 
