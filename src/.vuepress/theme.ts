@@ -15,7 +15,7 @@ export default hopeTheme({
 
     darkmode: "auto",
 
-    repo: "bkctwy/ILP-Cpp",
+    repo: "bkctwy/ILP-Docs",
 
     docsDir: "src",
 
@@ -53,19 +53,6 @@ export default hopeTheme({
             // page meta
             metaLocales: {
                 editLink: "在 GitHub 上编辑此页",
-            },
-        },
-    },
-
-    encrypt: {
-        config: {
-            "/demo/encrypt.html": {
-                hint: "Password: 1234",
-                password: "1234",
-            },
-            "/zh/demo/encrypt.html": {
-                hint: "Password: 1234",
-                password: "1234",
             },
         },
     },
